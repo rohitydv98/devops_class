@@ -1,0 +1,6 @@
+###ignore some command
+
+index.html
+*.css
+*.html
+
